@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Purshottam Kewat
 
-<!--
-**kewatpurshottam/kewatpurshottam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📍 From Kapivastu, Nepal  
+### 💻 Passionate about Technology & Coding  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I love exploring **new technologies** and staying up to date with the latest innovations.  
+- 💻 My hobbies include **coding** and building creative projects.  
+- 📖 I enjoy reading and learning continuously to sharpen my skills.  
+
+---
+
+## 🛠️ Skills & Interests
+- Programming & Software Development  
+- Exploring emerging technologies  
+- Problem-solving through code  
+- Open-source collaboration  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [Your GitHub Profile Link]  
+- LinkedIn: [Your LinkedIn Profile Link]  
+- Email: [Your Email Address]  
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me. Let's learn and build together!*
