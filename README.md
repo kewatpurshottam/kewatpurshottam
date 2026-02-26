@@ -21,10 +21,9 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: [Your GitHub Profile Link]  
-- LinkedIn: [Your LinkedIn Profile Link]  
-- Email: [Your Email Address]  
-
+- GitHub:(https://github.com/kewatpurshottam) 
+- LinkedIn:none
+- Email:purshottamkewat484@gmail.com
 ---
 
 ⭐️ *Feel free to explore my repositories and connect with me. Let's learn and build together!*
